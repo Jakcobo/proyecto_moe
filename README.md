@@ -116,8 +116,6 @@ Con α dinámico (base = 0.10) y *Auxiliary Loss* del Switch Transformer, el rat
 │   └── entrenamiento_pancreatic.ipynb   # Experto 5 (R3D-18)
 ├── moe/
 │   ├── moe_definitivo.ipynb             # Implementacion y entrenamiento de MoE
-├── ablation/
-│   └── router_ablation.ipynb            # Comparación de los 4 mecanismos
 └── README.md
 ```
 
@@ -288,8 +286,3 @@ Las referencias completas están en el reporte técnico (`report/proyecto_moe_fi
 - Huang et al. *DenseNet*. CVPR, 2017.
 - Tan & Le. *EfficientNet*. ICML, 2019.
 
----
-
-## Licencia
-
-Uso académico. Los datasets mantienen sus licencias originales; verificar cada fuente antes de redistribuir resultados o modelos derivados.
